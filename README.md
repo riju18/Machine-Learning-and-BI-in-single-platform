@@ -28,3 +28,7 @@ The Data app lets you analyze data using business intelligence &amp; make the de
 ![9](https://user-images.githubusercontent.com/18087611/109390798-d8ab4100-793d-11eb-89f4-94dd03026af6.JPG)
 
 ![10](https://user-images.githubusercontent.com/18087611/109390802-dd6ff500-793d-11eb-8c17-47784aa0eba4.JPG)
+
+![12](https://user-images.githubusercontent.com/18087611/109390830-127c4780-793e-11eb-9dd8-9cd89a364d5c.JPG)
+
+![13](https://user-images.githubusercontent.com/18087611/109390831-14dea180-793e-11eb-9692-d73df51ffbea.JPG)
